@@ -1,0 +1,226 @@
+countryCode, countryName, lastUpdateYear
+BD, Bangladesh, 2010
+BE, Belgium, 1997
+BF, Burkina Faso, 1997
+BG, Bulgaria, 1997
+BA, Bosnia and Herzegovina, 2012
+BB, Barbados, 2000
+WF, Wallis and Futuna, 2008
+BL, Saint Barthélemy, 2008
+BM, Bermuda, 2008
+BN, Brunei, 2007
+BO, Bolivia, 2008
+BH, Bahrain, 2010
+BI, Burundi, 2013
+BJ, Benin, 2002
+BT, Bhutan, 2008
+JM, Jamaica, 1997
+BW, Botswana, 1997
+WS, Samoa, 2009
+BR, Brazil, 2012
+BS, Bahamas, 2009
+JE, Jersey, 2010
+BY, Belarus, 2012
+BZ, Belize, 2002
+RU, Russia, 2012
+RW, Rwanda, 2009
+RS, Serbia, 2008
+TL, Timor-Leste, 2012
+TM, Turkmenistan, 2008
+TJ, Tajikistan, 2006
+RO, Romania, 2010
+GW, Guinea-Bissau, 2002
+GU, Guam, 2012
+GT, Guatemala, 2006
+GR, Greece, 1997
+GQ, Equatorial Guinea, 2008
+JP, Japan, 2011
+GY, Guyana, 2009
+GG, Guernsey, 2010
+GE, Georgia, 2013
+GD, Grenada, 2009
+GB, United Kingdom, 2010
+GA, Gabon, 2002
+GN, Guinea, 1997
+GM, Gambia, 2010
+GL, Greenland, 2008
+GI, Gibraltar, 2009
+GH, Ghana, 2012
+OM, Oman, 2009
+TN, Tunisia, 2010
+JO, Jordan, 2009
+HR, Croatia, 2004
+HT, Haiti, 2010
+HU, Hungary, 2010
+HK, Hong Kong SAR China, 2013
+HN, Honduras, 1997
+VE, Venezuela, 2007
+PR, Puerto Rico, 2013
+PS, Palestinian Territories, 1998
+PW, Palau, 2008
+PT, Portugal, 2004
+KN, Saint Kitts and Nevis, 2009
+PY, Paraguay, 2009
+IQ, Iraq, 1998
+PA, Panama, 2008
+PF, French Polynesia, 2011
+PG, Papua New Guinea, 2009
+PE, Peru, 2010
+PK, Pakistan, 2010
+PH, Philippines, 2008
+PL, Poland, 2005
+PM, Saint Pierre and Miquelon, 2009
+ZM, Zambia, 2012
+EH, Western Sahara, 2009
+EE, Estonia, 2013
+EG, Egypt, 2009
+ZA, South Africa, 1997
+EC, Ecuador, 2008
+IT, Italy, 2010
+VN, Vietnam, 2009
+KZ, Kazakhstan, 2011
+ET, Ethiopia, 2012
+SO, Somalia, 2010
+ZW, Zimbabwe, 1997
+SA, Saudi Arabia, 2010
+ES, Spain, 2010
+ER, Eritrea, 1997
+ME, Montenegro, 2006
+MD, Moldova, 2011
+MG, Madagascar, 2012
+MF, Saint Martin, 2008
+MA, Morocco, 2009
+MC, Monaco, 2009
+UZ, Uzbekistan, 2008
+MM, Myanmar [Burma], 2009
+ML, Mali, 2012
+MO, Macau SAR China, 1998
+MN, Mongolia, 2013
+MH, Marshall Islands, 2002
+MK, Macedonia, 1997
+MU, Mauritius, 2008
+MT, Malta, 2004
+MW, Malawi, 2009
+MV, Maldives, 2008
+MP, Northern Mariana Islands, 2012
+MS, Montserrat, 2008
+MR, Mauritania, 2008
+IM, Isle of Man, 2010
+UG, Uganda, 2012
+MY, Malaysia, 2010
+MX, Mexico, 2013
+IL, Israel, 2008
+FR, France, 2012
+SH, Saint Helena, 1997
+FI, Finland, 1997
+FJ, Fiji, 2010
+FM, Micronesia, 2003
+FO, Faroe Islands, 2008
+NI, Nicaragua, 2010
+NL, Netherlands, 2011
+NO, Norway, 2013
+NA, Namibia, 1997
+VU, Vanuatu, 2012
+NC, New Caledonia, 2010
+NE, Niger, 2012
+NG, Nigeria, 2011
+NZ, New Zealand, 2008
+NP, Nepal, 2008
+NR, Nauru, 2010
+CK, Cook Islands, 2008
+CI, Côte d’Ivoire, 1997
+CH, Switzerland, 2012
+CO, Colombia, 2009
+CN, China, 2009
+CM, Cameroon, 2013
+CL, Chile, 2012
+CA, Canada, 2008
+CG, Congo - Brazzaville, 2010
+CF, Central African Republic, 2009
+CD, Congo - Kinshasa, 2013
+CZ, Czech Republic, 2013
+CY, Cyprus, 2009
+CR, Costa Rica, 2009
+CW, Curaçao, 2011
+CV, Cape Verde, 2009
+CU, Cuba, 2010
+SZ, Swaziland, 2009
+SY, Syria, 2009
+SX, Sint Maarten, 2011
+KG, Kyrgyzstan, 2012
+KE, Kenya, 2011
+SR, Suriname, 2011
+KI, Kiribati, 2009
+KH, Cambodia, 2010
+SV, El Salvador, 2009
+KM, Comoros, 2011
+ST, São Tomé and Príncipe, 2009
+SK, Slovakia, 1997
+KR, South Korea, 2008
+SI, Slovenia, 2004
+KP, North Korea, 2010
+KW, Kuwait, 2010
+SN, Senegal, 2010
+SM, San Marino, 2009
+SL, Sierra Leone, 2009
+SC, Seychelles, 2008
+SB, Solomon Islands, 2010
+KY, Cayman Islands, 2002
+SG, Singapore, 2011
+SE, Sweden, 2013
+SD, Sudan, 2012
+DO, Dominican Republic, 2010
+DM, Dominica, 2007
+DJ, Djibouti, 2009
+DK, Denmark, 1997
+VG, British Virgin Islands, 1998
+DE, Germany, 2010
+YE, Yemen, 2013
+DZ, Algeria, 2012
+US, United States, 2013
+UY, Uruguay, 2010
+LB, Lebanon, 2009
+LC, Saint Lucia, 2008
+LA, Laos, 2010
+TV, Tuvalu, 2009
+TW, Taiwan, 2012
+TT, Trinidad and Tobago, 1997
+TR, Turkey, 2008
+LK, Sri Lanka, 2010
+LI, Liechtenstein, 2011
+LV, Latvia, 2004
+TO, Tonga, 2010
+LT, Lithuania, 2004
+LU, Luxembourg, 1997
+LR, Liberia, 2009
+LS, Lesotho, 2009
+TH, Thailand, 2013
+TG, Togo, 2010
+TD, Chad, 2002
+TC, Turks and Caicos Islands, 2010
+LY, Libya, 2012
+VC, Saint Vincent and the Grenadines, 2008
+AE, United Arab Emirates, 2007
+AD, Andorra, 2008
+AG, Antigua and Barbuda, 2008
+AF, Afghanistan, 2011
+AI, Anguilla, 2008
+VI, U.S. Virgin Islands, 1999
+IS, Iceland, 2004
+IR, Iran, 2010
+AM, Armenia, 2013
+AL, Albania, 2010
+AO, Angola, 2011
+AS, American Samoa, 2012
+AR, Argentina, 2008
+AU, Australia, 2008
+AT, Austria, 1997
+AW, Aruba, 2007
+IN, India, 2009
+TZ, Tanzania, 2012
+AZ, Azerbaijan, 2011
+IE, Ireland, 2010
+ID, Indonesia, 2012
+UA, Ukraine, 2005
+QA, Qatar, 2011
+MZ, Mozambique, 2010
